@@ -11,17 +11,3 @@
 
 #Purpose/Concepts: Input and output to screen, string concatentation, datatype casting, simple math operations
 
-def main():
-    # YOUR CODE STARTS HERE, each line must be indented (one tab)
-    print("Welcome to the Paint Shop!")
-
-
-
-
-
-
-
-
-    # YOUR CODE ENDS HERE
-
-main()
